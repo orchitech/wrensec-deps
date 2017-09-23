@@ -130,3 +130,7 @@ install_artifact "org/forgerock/commons/guava/forgerock-guava-math/18.0.4/forger
 install_artifact "org/forgerock/commons/guava/forgerock-guava-net/18.0.4/forgerock-guava-net-18.0.4"
 install_artifact "org/forgerock/commons/guava/forgerock-guava-primitives/18.0.4/forgerock-guava-primitives-18.0.4"
 install_artifact "org/forgerock/commons/guava/forgerock-guava-reflect/18.0.4/forgerock-guava-reflect-18.0.4"
+
+# Zip files
+install_artifact "org/forgerock/commons/ui/forgerock-ui-commons/13.0.3/forgerock-ui-commons-13.0.3" "zip" "www"
+install_artifact "org/forgerock/commons/ui/forgerock-ui-user/13.0.3/forgerock-ui-user-13.0.3" "zip" "www"
