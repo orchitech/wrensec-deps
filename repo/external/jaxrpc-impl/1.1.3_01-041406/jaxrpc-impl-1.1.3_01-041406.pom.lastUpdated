@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 09 15:13:02 CEST 2017
+http\://maven.forgerock.org/repo/openam-dependencies/.lastUpdated=1497013982399
+@default-forgerock-staging-repository-http\://maven.forgerock.org/repo/releases/.lastUpdated=1497013982319
+http\://maven.forgerock.org/repo/releases/.error=Could not transfer artifact external\:jaxrpc-impl\:pom\:1.1.3_01-041406 from/to forgerock-staging-repository (http\://maven.forgerock.org/repo/releases)\: Not authorized , ReasonPhrase\:Unauthorized.
