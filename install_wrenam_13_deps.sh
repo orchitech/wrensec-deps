@@ -66,6 +66,8 @@ install_artifact "org/forgerock/commons/json-web-token/3.0.2/json-web-token-3.0.
 install_artifact "org/forgerock/commons/forgerock-jaspi-openid-connect-module/3.1.5/forgerock-jaspi-openid-connect-module-3.1.5"
 install_artifact "org/forgerock/commons/forgerock-selfservice-core/1.0.3/forgerock-selfservice-core-1.0.3"
 install_artifact "org/forgerock/commons/forgerock-selfservice-stages/1.0.3/forgerock-selfservice-stages-1.0.3"
+install_artifact "external/jdmkrt/2007-01-10/jdmkrt-2007-01-10"
+install_artifact "external/jdmktk/2007-01-10/jdmktk-2007-01-10"
 
 # Source JAR included 
 
